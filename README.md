@@ -38,13 +38,3 @@ Use "<b>/commands</b>" to show list of available commands.
 # 📷Screenshots
 <img src="https://user-images.githubusercontent.com/68910039/93020832-551ab500-f594-11ea-92fd-6bda9df20e94.jpg" width="500"></img>
 <img src="https://user-images.githubusercontent.com/68910039/93020833-56e47880-f594-11ea-9bad-a3f392fe7445.jpg" width="500"></img>
-
-# My Youtube Channel
-[![](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
-
-[![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
-
-## Litecoin Address [LTC]
-MNnZSQaTjW8guxdFsSBaWLzuRnhoaDuner
-
-#### Star the Repo in case you liked it :)
